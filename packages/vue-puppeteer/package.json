@@ -10,6 +10,7 @@
     "express": "4.x",
     "express-static": "1.x",
     "mocha": "latest",
+    "mocha-junit-reporter": "^2.0.2",
     "puppeteer": "9.0.0",
     "serve": "11.x"
   },
